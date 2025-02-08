@@ -1,0 +1,6 @@
+C:\dotnet_cg\day2\BaseConEx\BaseConEx\bin\Debug\BaseConEx.exe.config
+C:\dotnet_cg\day2\BaseConEx\BaseConEx\bin\Debug\BaseConEx.exe
+C:\dotnet_cg\day2\BaseConEx\BaseConEx\bin\Debug\BaseConEx.pdb
+C:\dotnet_cg\day2\BaseConEx\BaseConEx\obj\Debug\BaseConEx.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day2\BaseConEx\BaseConEx\obj\Debug\BaseConEx.exe
+C:\dotnet_cg\day2\BaseConEx\BaseConEx\obj\Debug\BaseConEx.pdb

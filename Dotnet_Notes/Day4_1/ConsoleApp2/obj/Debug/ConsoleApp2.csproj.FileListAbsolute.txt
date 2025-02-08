@@ -1,0 +1,6 @@
+C:\dotnet_cg\Day4_1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\dotnet_cg\Day4_1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\dotnet_cg\Day4_1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\dotnet_cg\Day4_1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\Day4_1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\dotnet_cg\Day4_1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

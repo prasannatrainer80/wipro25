@@ -1,0 +1,7 @@
+C:\dotnet_cg\day1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\dotnet_cg\day1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\dotnet_cg\day1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\dotnet_cg\day1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\dotnet_cg\day1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\dotnet_cg\day1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

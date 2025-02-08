@@ -1,0 +1,6 @@
+C:\dotnet_cg\day1_1\OutputEx1\OutputEx1\bin\Debug\OutputEx1.exe.config
+C:\dotnet_cg\day1_1\OutputEx1\OutputEx1\bin\Debug\OutputEx1.exe
+C:\dotnet_cg\day1_1\OutputEx1\OutputEx1\bin\Debug\OutputEx1.pdb
+C:\dotnet_cg\day1_1\OutputEx1\OutputEx1\obj\Debug\OutputEx1.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day1_1\OutputEx1\OutputEx1\obj\Debug\OutputEx1.exe
+C:\dotnet_cg\day1_1\OutputEx1\OutputEx1\obj\Debug\OutputEx1.pdb

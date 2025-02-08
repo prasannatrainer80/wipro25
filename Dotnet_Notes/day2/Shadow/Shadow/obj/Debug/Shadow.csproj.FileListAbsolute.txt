@@ -1,0 +1,6 @@
+C:\dotnet_cg\day2\Shadow\Shadow\bin\Debug\Shadow.exe.config
+C:\dotnet_cg\day2\Shadow\Shadow\bin\Debug\Shadow.exe
+C:\dotnet_cg\day2\Shadow\Shadow\bin\Debug\Shadow.pdb
+C:\dotnet_cg\day2\Shadow\Shadow\obj\Debug\Shadow.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day2\Shadow\Shadow\obj\Debug\Shadow.exe
+C:\dotnet_cg\day2\Shadow\Shadow\obj\Debug\Shadow.pdb

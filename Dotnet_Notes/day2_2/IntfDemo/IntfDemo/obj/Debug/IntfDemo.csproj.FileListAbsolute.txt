@@ -1,0 +1,6 @@
+C:\dotnet_cg\day2_2\IntfDemo\IntfDemo\bin\Debug\IntfDemo.exe.config
+C:\dotnet_cg\day2_2\IntfDemo\IntfDemo\bin\Debug\IntfDemo.exe
+C:\dotnet_cg\day2_2\IntfDemo\IntfDemo\bin\Debug\IntfDemo.pdb
+C:\dotnet_cg\day2_2\IntfDemo\IntfDemo\obj\Debug\IntfDemo.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day2_2\IntfDemo\IntfDemo\obj\Debug\IntfDemo.exe
+C:\dotnet_cg\day2_2\IntfDemo\IntfDemo\obj\Debug\IntfDemo.pdb

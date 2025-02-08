@@ -1,0 +1,6 @@
+C:\dotnet_cg\day1_1\EvenShow\EvenShow\bin\Debug\EvenShow.exe.config
+C:\dotnet_cg\day1_1\EvenShow\EvenShow\bin\Debug\EvenShow.exe
+C:\dotnet_cg\day1_1\EvenShow\EvenShow\bin\Debug\EvenShow.pdb
+C:\dotnet_cg\day1_1\EvenShow\EvenShow\obj\Debug\EvenShow.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day1_1\EvenShow\EvenShow\obj\Debug\EvenShow.exe
+C:\dotnet_cg\day1_1\EvenShow\EvenShow\obj\Debug\EvenShow.pdb

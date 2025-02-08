@@ -1,0 +1,6 @@
+C:\dotnet_cg\day1_1\RefEx\RefEx\bin\Debug\RefEx.exe.config
+C:\dotnet_cg\day1_1\RefEx\RefEx\bin\Debug\RefEx.exe
+C:\dotnet_cg\day1_1\RefEx\RefEx\bin\Debug\RefEx.pdb
+C:\dotnet_cg\day1_1\RefEx\RefEx\obj\Debug\RefEx.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day1_1\RefEx\RefEx\obj\Debug\RefEx.exe
+C:\dotnet_cg\day1_1\RefEx\RefEx\obj\Debug\RefEx.pdb

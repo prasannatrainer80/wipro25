@@ -1,0 +1,7 @@
+C:\dotnet_cg\day3_1\StringExamples\StringExamples\bin\Debug\StringExamples.exe.config
+C:\dotnet_cg\day3_1\StringExamples\StringExamples\bin\Debug\StringExamples.exe
+C:\dotnet_cg\day3_1\StringExamples\StringExamples\bin\Debug\StringExamples.pdb
+C:\dotnet_cg\day3_1\StringExamples\StringExamples\obj\Debug\StringExamples.csprojAssemblyReference.cache
+C:\dotnet_cg\day3_1\StringExamples\StringExamples\obj\Debug\StringExamples.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day3_1\StringExamples\StringExamples\obj\Debug\StringExamples.exe
+C:\dotnet_cg\day3_1\StringExamples\StringExamples\obj\Debug\StringExamples.pdb

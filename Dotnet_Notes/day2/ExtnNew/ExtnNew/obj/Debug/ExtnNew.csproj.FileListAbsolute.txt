@@ -1,0 +1,6 @@
+C:\dotnet_cg\day2\ExtnNew\ExtnNew\bin\Debug\ExtnNew.exe.config
+C:\dotnet_cg\day2\ExtnNew\ExtnNew\bin\Debug\ExtnNew.exe
+C:\dotnet_cg\day2\ExtnNew\ExtnNew\bin\Debug\ExtnNew.pdb
+C:\dotnet_cg\day2\ExtnNew\ExtnNew\obj\Debug\ExtnNew.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day2\ExtnNew\ExtnNew\obj\Debug\ExtnNew.exe
+C:\dotnet_cg\day2\ExtnNew\ExtnNew\obj\Debug\ExtnNew.pdb

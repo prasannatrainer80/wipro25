@@ -1,0 +1,6 @@
+C:\dotnet_cg\day2\InhDemo\InhDemo\bin\Debug\InhDemo.exe.config
+C:\dotnet_cg\day2\InhDemo\InhDemo\bin\Debug\InhDemo.exe
+C:\dotnet_cg\day2\InhDemo\InhDemo\bin\Debug\InhDemo.pdb
+C:\dotnet_cg\day2\InhDemo\InhDemo\obj\Debug\InhDemo.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day2\InhDemo\InhDemo\obj\Debug\InhDemo.exe
+C:\dotnet_cg\day2\InhDemo\InhDemo\obj\Debug\InhDemo.pdb

@@ -1,0 +1,6 @@
+C:\dotnet_cg\day2\Inhc\Inhc\bin\Debug\Inhc.exe.config
+C:\dotnet_cg\day2\Inhc\Inhc\bin\Debug\Inhc.exe
+C:\dotnet_cg\day2\Inhc\Inhc\bin\Debug\Inhc.pdb
+C:\dotnet_cg\day2\Inhc\Inhc\obj\Debug\Inhc.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day2\Inhc\Inhc\obj\Debug\Inhc.exe
+C:\dotnet_cg\day2\Inhc\Inhc\obj\Debug\Inhc.pdb

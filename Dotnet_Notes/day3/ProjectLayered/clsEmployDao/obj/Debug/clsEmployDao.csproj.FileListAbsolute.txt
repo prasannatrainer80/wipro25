@@ -1,0 +1,8 @@
+C:\dotnet_cg\day3\ProjectLayered\clsEmployDao\bin\Debug\clsEmployDao.dll
+C:\dotnet_cg\day3\ProjectLayered\clsEmployDao\bin\Debug\clsEmployDao.pdb
+C:\dotnet_cg\day3\ProjectLayered\clsEmployDao\bin\Debug\clsEmploy.dll
+C:\dotnet_cg\day3\ProjectLayered\clsEmployDao\bin\Debug\clsEmploy.pdb
+C:\dotnet_cg\day3\ProjectLayered\clsEmployDao\obj\Debug\clsEmployDao.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day3\ProjectLayered\clsEmployDao\obj\Debug\clsEmployDao.csproj.CopyComplete
+C:\dotnet_cg\day3\ProjectLayered\clsEmployDao\obj\Debug\clsEmployDao.dll
+C:\dotnet_cg\day3\ProjectLayered\clsEmployDao\obj\Debug\clsEmployDao.pdb

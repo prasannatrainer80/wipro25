@@ -1,0 +1,6 @@
+C:\dotnet_cg\Day4\CustomException2\CustomException2\bin\Debug\CustomException2.exe.config
+C:\dotnet_cg\Day4\CustomException2\CustomException2\bin\Debug\CustomException2.exe
+C:\dotnet_cg\Day4\CustomException2\CustomException2\bin\Debug\CustomException2.pdb
+C:\dotnet_cg\Day4\CustomException2\CustomException2\obj\Debug\CustomException2.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\Day4\CustomException2\CustomException2\obj\Debug\CustomException2.exe
+C:\dotnet_cg\Day4\CustomException2\CustomException2\obj\Debug\CustomException2.pdb

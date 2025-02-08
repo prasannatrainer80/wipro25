@@ -1,0 +1,7 @@
+C:\dotnet_cg\day2_2\AbsDemo\AbsDemo\bin\Debug\AbsDemo.exe.config
+C:\dotnet_cg\day2_2\AbsDemo\AbsDemo\bin\Debug\AbsDemo.exe
+C:\dotnet_cg\day2_2\AbsDemo\AbsDemo\bin\Debug\AbsDemo.pdb
+C:\dotnet_cg\day2_2\AbsDemo\AbsDemo\obj\Debug\AbsDemo.csprojAssemblyReference.cache
+C:\dotnet_cg\day2_2\AbsDemo\AbsDemo\obj\Debug\AbsDemo.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day2_2\AbsDemo\AbsDemo\obj\Debug\AbsDemo.exe
+C:\dotnet_cg\day2_2\AbsDemo\AbsDemo\obj\Debug\AbsDemo.pdb

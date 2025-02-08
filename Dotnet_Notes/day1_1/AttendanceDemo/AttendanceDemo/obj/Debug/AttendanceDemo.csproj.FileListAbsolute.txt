@@ -1,0 +1,6 @@
+C:\dotnet_cg\day1_1\AttendanceDemo\AttendanceDemo\bin\Debug\AttendanceDemo.exe.config
+C:\dotnet_cg\day1_1\AttendanceDemo\AttendanceDemo\bin\Debug\AttendanceDemo.exe
+C:\dotnet_cg\day1_1\AttendanceDemo\AttendanceDemo\bin\Debug\AttendanceDemo.pdb
+C:\dotnet_cg\day1_1\AttendanceDemo\AttendanceDemo\obj\Debug\AttendanceDemo.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day1_1\AttendanceDemo\AttendanceDemo\obj\Debug\AttendanceDemo.exe
+C:\dotnet_cg\day1_1\AttendanceDemo\AttendanceDemo\obj\Debug\AttendanceDemo.pdb

@@ -1,0 +1,5 @@
+C:\dotnet_cg\day3\Project\clsAgent\bin\Debug\clsAgent.dll
+C:\dotnet_cg\day3\Project\clsAgent\bin\Debug\clsAgent.pdb
+C:\dotnet_cg\day3\Project\clsAgent\obj\Debug\clsAgent.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day3\Project\clsAgent\obj\Debug\clsAgent.dll
+C:\dotnet_cg\day3\Project\clsAgent\obj\Debug\clsAgent.pdb

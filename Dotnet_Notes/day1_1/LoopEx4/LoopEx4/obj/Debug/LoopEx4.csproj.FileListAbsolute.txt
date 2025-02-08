@@ -1,0 +1,6 @@
+C:\dotnet_cg\day1_1\LoopEx4\LoopEx4\bin\Debug\LoopEx4.exe.config
+C:\dotnet_cg\day1_1\LoopEx4\LoopEx4\bin\Debug\LoopEx4.exe
+C:\dotnet_cg\day1_1\LoopEx4\LoopEx4\bin\Debug\LoopEx4.pdb
+C:\dotnet_cg\day1_1\LoopEx4\LoopEx4\obj\Debug\LoopEx4.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day1_1\LoopEx4\LoopEx4\obj\Debug\LoopEx4.exe
+C:\dotnet_cg\day1_1\LoopEx4\LoopEx4\obj\Debug\LoopEx4.pdb

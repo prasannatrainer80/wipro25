@@ -1,0 +1,7 @@
+C:\dotnet_cg\day2\ObjectDemo\ObjectDemo\bin\Debug\ObjectDemo.exe.config
+C:\dotnet_cg\day2\ObjectDemo\ObjectDemo\bin\Debug\ObjectDemo.exe
+C:\dotnet_cg\day2\ObjectDemo\ObjectDemo\bin\Debug\ObjectDemo.pdb
+C:\dotnet_cg\day2\ObjectDemo\ObjectDemo\obj\Debug\ObjectDemo.csprojAssemblyReference.cache
+C:\dotnet_cg\day2\ObjectDemo\ObjectDemo\obj\Debug\ObjectDemo.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day2\ObjectDemo\ObjectDemo\obj\Debug\ObjectDemo.exe
+C:\dotnet_cg\day2\ObjectDemo\ObjectDemo\obj\Debug\ObjectDemo.pdb

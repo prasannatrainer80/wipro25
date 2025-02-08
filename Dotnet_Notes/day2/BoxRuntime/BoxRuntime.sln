@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxRuntime", "BoxRuntime\BoxRuntime.csproj", "{BE3B072D-F467-4626-9FAD-B67A2BEA010B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE3B072D-F467-4626-9FAD-B67A2BEA010B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3B072D-F467-4626-9FAD-B67A2BEA010B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3B072D-F467-4626-9FAD-B67A2BEA010B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3B072D-F467-4626-9FAD-B67A2BEA010B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F40CEA3-CE1A-41A3-843B-771E78C21260}
+	EndGlobalSection
+EndGlobal

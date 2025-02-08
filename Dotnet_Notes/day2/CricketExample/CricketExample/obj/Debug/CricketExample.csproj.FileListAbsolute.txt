@@ -1,0 +1,6 @@
+C:\dotnet_cg\day2\CricketExample\CricketExample\bin\Debug\CricketExample.exe.config
+C:\dotnet_cg\day2\CricketExample\CricketExample\bin\Debug\CricketExample.exe
+C:\dotnet_cg\day2\CricketExample\CricketExample\bin\Debug\CricketExample.pdb
+C:\dotnet_cg\day2\CricketExample\CricketExample\obj\Debug\CricketExample.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day2\CricketExample\CricketExample\obj\Debug\CricketExample.exe
+C:\dotnet_cg\day2\CricketExample\CricketExample\obj\Debug\CricketExample.pdb

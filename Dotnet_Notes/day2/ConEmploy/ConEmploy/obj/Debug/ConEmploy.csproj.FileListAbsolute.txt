@@ -1,0 +1,7 @@
+C:\dotnet_cg\day2\ConEmploy\ConEmploy\bin\Debug\ConEmploy.exe.config
+C:\dotnet_cg\day2\ConEmploy\ConEmploy\bin\Debug\ConEmploy.exe
+C:\dotnet_cg\day2\ConEmploy\ConEmploy\bin\Debug\ConEmploy.pdb
+C:\dotnet_cg\day2\ConEmploy\ConEmploy\obj\Debug\ConEmploy.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day2\ConEmploy\ConEmploy\obj\Debug\ConEmploy.exe
+C:\dotnet_cg\day2\ConEmploy\ConEmploy\obj\Debug\ConEmploy.pdb
+C:\dotnet_cg\day2\ConEmploy\ConEmploy\obj\Debug\ConEmploy.csprojAssemblyReference.cache

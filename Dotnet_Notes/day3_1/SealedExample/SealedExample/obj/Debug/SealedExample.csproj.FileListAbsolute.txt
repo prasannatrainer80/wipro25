@@ -1,0 +1,6 @@
+C:\dotnet_cg\day3_1\SealedExample\SealedExample\bin\Debug\SealedExample.exe.config
+C:\dotnet_cg\day3_1\SealedExample\SealedExample\bin\Debug\SealedExample.exe
+C:\dotnet_cg\day3_1\SealedExample\SealedExample\bin\Debug\SealedExample.pdb
+C:\dotnet_cg\day3_1\SealedExample\SealedExample\obj\Debug\SealedExample.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day3_1\SealedExample\SealedExample\obj\Debug\SealedExample.exe
+C:\dotnet_cg\day3_1\SealedExample\SealedExample\obj\Debug\SealedExample.pdb

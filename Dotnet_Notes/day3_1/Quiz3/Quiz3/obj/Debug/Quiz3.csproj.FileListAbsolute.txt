@@ -1,0 +1,6 @@
+C:\dotnet_cg\day3_1\Quiz3\Quiz3\bin\Debug\Quiz3.exe.config
+C:\dotnet_cg\day3_1\Quiz3\Quiz3\bin\Debug\Quiz3.exe
+C:\dotnet_cg\day3_1\Quiz3\Quiz3\bin\Debug\Quiz3.pdb
+C:\dotnet_cg\day3_1\Quiz3\Quiz3\obj\Debug\Quiz3.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day3_1\Quiz3\Quiz3\obj\Debug\Quiz3.exe
+C:\dotnet_cg\day3_1\Quiz3\Quiz3\obj\Debug\Quiz3.pdb

@@ -1,0 +1,6 @@
+C:\dotnet_cg\day3_1\SbDemo\SbDemo\bin\Debug\SbDemo.exe.config
+C:\dotnet_cg\day3_1\SbDemo\SbDemo\bin\Debug\SbDemo.exe
+C:\dotnet_cg\day3_1\SbDemo\SbDemo\bin\Debug\SbDemo.pdb
+C:\dotnet_cg\day3_1\SbDemo\SbDemo\obj\Debug\SbDemo.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day3_1\SbDemo\SbDemo\obj\Debug\SbDemo.exe
+C:\dotnet_cg\day3_1\SbDemo\SbDemo\obj\Debug\SbDemo.pdb

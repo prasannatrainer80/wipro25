@@ -1,0 +1,6 @@
+C:\dotnet_cg\day1\Max3Ex\Max3Ex\bin\Debug\Max3Ex.exe.config
+C:\dotnet_cg\day1\Max3Ex\Max3Ex\bin\Debug\Max3Ex.exe
+C:\dotnet_cg\day1\Max3Ex\Max3Ex\bin\Debug\Max3Ex.pdb
+C:\dotnet_cg\day1\Max3Ex\Max3Ex\obj\Debug\Max3Ex.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day1\Max3Ex\Max3Ex\obj\Debug\Max3Ex.exe
+C:\dotnet_cg\day1\Max3Ex\Max3Ex\obj\Debug\Max3Ex.pdb

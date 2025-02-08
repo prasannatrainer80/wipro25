@@ -1,0 +1,6 @@
+C:\dotnet_cg\day2\ConEx\ConEx\bin\Debug\ConEx.exe.config
+C:\dotnet_cg\day2\ConEx\ConEx\bin\Debug\ConEx.exe
+C:\dotnet_cg\day2\ConEx\ConEx\bin\Debug\ConEx.pdb
+C:\dotnet_cg\day2\ConEx\ConEx\obj\Debug\ConEx.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day2\ConEx\ConEx\obj\Debug\ConEx.exe
+C:\dotnet_cg\day2\ConEx\ConEx\obj\Debug\ConEx.pdb

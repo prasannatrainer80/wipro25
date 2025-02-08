@@ -1,0 +1,5 @@
+C:\dotnet_cg\day2\clsCalculation\clsCalculation\bin\Debug\clsCalculation.dll
+C:\dotnet_cg\day2\clsCalculation\clsCalculation\bin\Debug\clsCalculation.pdb
+C:\dotnet_cg\day2\clsCalculation\clsCalculation\obj\Debug\clsCalculation.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day2\clsCalculation\clsCalculation\obj\Debug\clsCalculation.dll
+C:\dotnet_cg\day2\clsCalculation\clsCalculation\obj\Debug\clsCalculation.pdb

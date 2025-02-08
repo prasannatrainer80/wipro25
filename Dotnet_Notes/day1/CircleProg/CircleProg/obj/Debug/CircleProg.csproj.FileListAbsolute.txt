@@ -1,0 +1,6 @@
+C:\dotnet_cg\day1\CircleProg\CircleProg\bin\Debug\CircleProg.exe.config
+C:\dotnet_cg\day1\CircleProg\CircleProg\bin\Debug\CircleProg.exe
+C:\dotnet_cg\day1\CircleProg\CircleProg\bin\Debug\CircleProg.pdb
+C:\dotnet_cg\day1\CircleProg\CircleProg\obj\Debug\CircleProg.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day1\CircleProg\CircleProg\obj\Debug\CircleProg.exe
+C:\dotnet_cg\day1\CircleProg\CircleProg\obj\Debug\CircleProg.pdb

@@ -1,0 +1,6 @@
+C:\dotnet_cg\day3\WriteOnly\WriteOnly\bin\Debug\WriteOnly.exe.config
+C:\dotnet_cg\day3\WriteOnly\WriteOnly\bin\Debug\WriteOnly.exe
+C:\dotnet_cg\day3\WriteOnly\WriteOnly\bin\Debug\WriteOnly.pdb
+C:\dotnet_cg\day3\WriteOnly\WriteOnly\obj\Debug\WriteOnly.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day3\WriteOnly\WriteOnly\obj\Debug\WriteOnly.exe
+C:\dotnet_cg\day3\WriteOnly\WriteOnly\obj\Debug\WriteOnly.pdb

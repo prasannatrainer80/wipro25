@@ -1,0 +1,5 @@
+C:\dotnet_cg\day3\clsEmploy\bin\Debug\clsEmploy.dll
+C:\dotnet_cg\day3\clsEmploy\bin\Debug\clsEmploy.pdb
+C:\dotnet_cg\day3\clsEmploy\obj\Debug\clsEmploy.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day3\clsEmploy\obj\Debug\clsEmploy.dll
+C:\dotnet_cg\day3\clsEmploy\obj\Debug\clsEmploy.pdb

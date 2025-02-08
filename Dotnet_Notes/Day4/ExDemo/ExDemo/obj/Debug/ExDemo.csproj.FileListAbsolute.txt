@@ -1,0 +1,7 @@
+C:\dotnet_cg\Day4\ExDemo\ExDemo\bin\Debug\ExDemo.exe.config
+C:\dotnet_cg\Day4\ExDemo\ExDemo\bin\Debug\ExDemo.exe
+C:\dotnet_cg\Day4\ExDemo\ExDemo\bin\Debug\ExDemo.pdb
+C:\dotnet_cg\Day4\ExDemo\ExDemo\obj\Debug\ExDemo.csprojAssemblyReference.cache
+C:\dotnet_cg\Day4\ExDemo\ExDemo\obj\Debug\ExDemo.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\Day4\ExDemo\ExDemo\obj\Debug\ExDemo.exe
+C:\dotnet_cg\Day4\ExDemo\ExDemo\obj\Debug\ExDemo.pdb

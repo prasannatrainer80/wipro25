@@ -1,0 +1,6 @@
+C:\dotnet_cg\day2_2\MultiInh\MultiInh\bin\Debug\MultiInh.exe.config
+C:\dotnet_cg\day2_2\MultiInh\MultiInh\bin\Debug\MultiInh.exe
+C:\dotnet_cg\day2_2\MultiInh\MultiInh\bin\Debug\MultiInh.pdb
+C:\dotnet_cg\day2_2\MultiInh\MultiInh\obj\Debug\MultiInh.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day2_2\MultiInh\MultiInh\obj\Debug\MultiInh.exe
+C:\dotnet_cg\day2_2\MultiInh\MultiInh\obj\Debug\MultiInh.pdb

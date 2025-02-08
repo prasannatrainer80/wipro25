@@ -1,0 +1,7 @@
+C:\dotnet_cg\Day4\SerilizationExample\SerilizationExample\bin\Debug\SerilizationExample.exe.config
+C:\dotnet_cg\Day4\SerilizationExample\SerilizationExample\bin\Debug\SerilizationExample.exe
+C:\dotnet_cg\Day4\SerilizationExample\SerilizationExample\bin\Debug\SerilizationExample.pdb
+C:\dotnet_cg\Day4\SerilizationExample\SerilizationExample\obj\Debug\SerilizationExample.csprojAssemblyReference.cache
+C:\dotnet_cg\Day4\SerilizationExample\SerilizationExample\obj\Debug\SerilizationExample.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\Day4\SerilizationExample\SerilizationExample\obj\Debug\SerilizationExample.exe
+C:\dotnet_cg\Day4\SerilizationExample\SerilizationExample\obj\Debug\SerilizationExample.pdb

@@ -1,0 +1,8 @@
+C:\dotnet_cg\day3\Project\clsAgentDao\bin\Debug\clsAgentDao.dll
+C:\dotnet_cg\day3\Project\clsAgentDao\bin\Debug\clsAgentDao.pdb
+C:\dotnet_cg\day3\Project\clsAgentDao\bin\Debug\clsAgent.dll
+C:\dotnet_cg\day3\Project\clsAgentDao\bin\Debug\clsAgent.pdb
+C:\dotnet_cg\day3\Project\clsAgentDao\obj\Debug\clsAgentDao.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day3\Project\clsAgentDao\obj\Debug\clsAgentDao.csproj.CopyComplete
+C:\dotnet_cg\day3\Project\clsAgentDao\obj\Debug\clsAgentDao.dll
+C:\dotnet_cg\day3\Project\clsAgentDao\obj\Debug\clsAgentDao.pdb

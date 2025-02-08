@@ -1,0 +1,6 @@
+C:\dotnet_cg\Day4\CustomEx\CustomEx\bin\Debug\CustomEx.exe.config
+C:\dotnet_cg\Day4\CustomEx\CustomEx\bin\Debug\CustomEx.exe
+C:\dotnet_cg\Day4\CustomEx\CustomEx\bin\Debug\CustomEx.pdb
+C:\dotnet_cg\Day4\CustomEx\CustomEx\obj\Debug\CustomEx.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\Day4\CustomEx\CustomEx\obj\Debug\CustomEx.exe
+C:\dotnet_cg\Day4\CustomEx\CustomEx\obj\Debug\CustomEx.pdb

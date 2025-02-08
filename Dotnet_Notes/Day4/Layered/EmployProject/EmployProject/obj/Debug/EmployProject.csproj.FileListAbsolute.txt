@@ -1,0 +1,16 @@
+C:\dotnet_cg\Day4\Layered\EmployProject\EmployProject\bin\Debug\EmployProject.exe.config
+C:\dotnet_cg\Day4\Layered\EmployProject\EmployProject\bin\Debug\EmployProject.exe
+C:\dotnet_cg\Day4\Layered\EmployProject\EmployProject\bin\Debug\EmployProject.pdb
+C:\dotnet_cg\Day4\Layered\EmployProject\EmployProject\obj\Debug\EmployProject.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\Day4\Layered\EmployProject\EmployProject\obj\Debug\EmployProject.exe
+C:\dotnet_cg\Day4\Layered\EmployProject\EmployProject\obj\Debug\EmployProject.pdb
+C:\dotnet_cg\Day4\Layered\EmployProject\EmployProject\bin\Debug\EmployBusinessLayer.dll
+C:\dotnet_cg\Day4\Layered\EmployProject\EmployProject\bin\Debug\EmployDataLayer.dll
+C:\dotnet_cg\Day4\Layered\EmployProject\EmployProject\bin\Debug\EmployEntity.dll
+C:\dotnet_cg\Day4\Layered\EmployProject\EmployProject\bin\Debug\Exceptions.dll
+C:\dotnet_cg\Day4\Layered\EmployProject\EmployProject\bin\Debug\EmployBusinessLayer.pdb
+C:\dotnet_cg\Day4\Layered\EmployProject\EmployProject\bin\Debug\EmployDataLayer.pdb
+C:\dotnet_cg\Day4\Layered\EmployProject\EmployProject\bin\Debug\EmployEntity.pdb
+C:\dotnet_cg\Day4\Layered\EmployProject\EmployProject\bin\Debug\Exceptions.pdb
+C:\dotnet_cg\Day4\Layered\EmployProject\EmployProject\obj\Debug\EmployProject.csprojAssemblyReference.cache
+C:\dotnet_cg\Day4\Layered\EmployProject\EmployProject\obj\Debug\EmployProject.csproj.CopyComplete

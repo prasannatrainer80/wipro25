@@ -1,0 +1,7 @@
+C:\dotnet_cg\Day4\FileCopyExample\FileCopyExample\bin\Debug\FileCopyExample.exe.config
+C:\dotnet_cg\Day4\FileCopyExample\FileCopyExample\bin\Debug\FileCopyExample.exe
+C:\dotnet_cg\Day4\FileCopyExample\FileCopyExample\bin\Debug\FileCopyExample.pdb
+C:\dotnet_cg\Day4\FileCopyExample\FileCopyExample\obj\Debug\FileCopyExample.csprojAssemblyReference.cache
+C:\dotnet_cg\Day4\FileCopyExample\FileCopyExample\obj\Debug\FileCopyExample.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\Day4\FileCopyExample\FileCopyExample\obj\Debug\FileCopyExample.exe
+C:\dotnet_cg\Day4\FileCopyExample\FileCopyExample\obj\Debug\FileCopyExample.pdb

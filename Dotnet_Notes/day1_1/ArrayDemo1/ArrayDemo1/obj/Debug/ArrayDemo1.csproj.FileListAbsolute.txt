@@ -1,0 +1,7 @@
+C:\dotnet_cg\day1_1\ArrayDemo1\ArrayDemo1\bin\Debug\ArrayDemo1.exe.config
+C:\dotnet_cg\day1_1\ArrayDemo1\ArrayDemo1\bin\Debug\ArrayDemo1.exe
+C:\dotnet_cg\day1_1\ArrayDemo1\ArrayDemo1\bin\Debug\ArrayDemo1.pdb
+C:\dotnet_cg\day1_1\ArrayDemo1\ArrayDemo1\obj\Debug\ArrayDemo1.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day1_1\ArrayDemo1\ArrayDemo1\obj\Debug\ArrayDemo1.exe
+C:\dotnet_cg\day1_1\ArrayDemo1\ArrayDemo1\obj\Debug\ArrayDemo1.pdb
+C:\dotnet_cg\day1_1\ArrayDemo1\ArrayDemo1\obj\Debug\ArrayDemo1.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\dotnet_cg\day3\ProjectLayered\ProjectLayered\bin\Debug\ProjectLayered.exe.config
+C:\dotnet_cg\day3\ProjectLayered\ProjectLayered\bin\Debug\ProjectLayered.exe
+C:\dotnet_cg\day3\ProjectLayered\ProjectLayered\bin\Debug\ProjectLayered.pdb
+C:\dotnet_cg\day3\ProjectLayered\ProjectLayered\bin\Debug\clsEmploy.dll
+C:\dotnet_cg\day3\ProjectLayered\ProjectLayered\bin\Debug\clsEmployDao.dll
+C:\dotnet_cg\day3\ProjectLayered\ProjectLayered\bin\Debug\clsEmploy.pdb
+C:\dotnet_cg\day3\ProjectLayered\ProjectLayered\bin\Debug\clsEmployDao.pdb
+C:\dotnet_cg\day3\ProjectLayered\ProjectLayered\obj\Debug\ProjectLayered.csprojAssemblyReference.cache
+C:\dotnet_cg\day3\ProjectLayered\ProjectLayered\obj\Debug\ProjectLayered.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day3\ProjectLayered\ProjectLayered\obj\Debug\ProjectLayered.csproj.CopyComplete
+C:\dotnet_cg\day3\ProjectLayered\ProjectLayered\obj\Debug\ProjectLayered.exe
+C:\dotnet_cg\day3\ProjectLayered\ProjectLayered\obj\Debug\ProjectLayered.pdb

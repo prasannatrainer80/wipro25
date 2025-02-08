@@ -1,0 +1,10 @@
+C:\dotnet_cg\day2\CalculationExample\bin\Debug\CalculationExample.exe.config
+C:\dotnet_cg\day2\CalculationExample\bin\Debug\CalculationExample.exe
+C:\dotnet_cg\day2\CalculationExample\bin\Debug\CalculationExample.pdb
+C:\dotnet_cg\day2\CalculationExample\bin\Debug\clsCalculation.dll
+C:\dotnet_cg\day2\CalculationExample\bin\Debug\clsCalculation.pdb
+C:\dotnet_cg\day2\CalculationExample\obj\Debug\CalculationExample.csprojAssemblyReference.cache
+C:\dotnet_cg\day2\CalculationExample\obj\Debug\CalculationExample.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day2\CalculationExample\obj\Debug\CalculationExample.csproj.CopyComplete
+C:\dotnet_cg\day2\CalculationExample\obj\Debug\CalculationExample.exe
+C:\dotnet_cg\day2\CalculationExample\obj\Debug\CalculationExample.pdb

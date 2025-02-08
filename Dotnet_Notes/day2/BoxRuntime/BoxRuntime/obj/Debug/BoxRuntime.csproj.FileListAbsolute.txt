@@ -1,0 +1,6 @@
+C:\dotnet_cg\day2\BoxRuntime\BoxRuntime\bin\Debug\BoxRuntime.exe.config
+C:\dotnet_cg\day2\BoxRuntime\BoxRuntime\bin\Debug\BoxRuntime.exe
+C:\dotnet_cg\day2\BoxRuntime\BoxRuntime\bin\Debug\BoxRuntime.pdb
+C:\dotnet_cg\day2\BoxRuntime\BoxRuntime\obj\Debug\BoxRuntime.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day2\BoxRuntime\BoxRuntime\obj\Debug\BoxRuntime.exe
+C:\dotnet_cg\day2\BoxRuntime\BoxRuntime\obj\Debug\BoxRuntime.pdb

@@ -1,0 +1,13 @@
+C:\dotnet_cg\Day4\Layered\EmployBusinessLayer\bin\Debug\EmployBusinessLayer.dll
+C:\dotnet_cg\Day4\Layered\EmployBusinessLayer\bin\Debug\EmployBusinessLayer.pdb
+C:\dotnet_cg\Day4\Layered\EmployBusinessLayer\bin\Debug\EmployDataLayer.dll
+C:\dotnet_cg\Day4\Layered\EmployBusinessLayer\bin\Debug\EmployEntity.dll
+C:\dotnet_cg\Day4\Layered\EmployBusinessLayer\bin\Debug\Exceptions.dll
+C:\dotnet_cg\Day4\Layered\EmployBusinessLayer\bin\Debug\EmployDataLayer.pdb
+C:\dotnet_cg\Day4\Layered\EmployBusinessLayer\bin\Debug\EmployEntity.pdb
+C:\dotnet_cg\Day4\Layered\EmployBusinessLayer\bin\Debug\Exceptions.pdb
+C:\dotnet_cg\Day4\Layered\EmployBusinessLayer\obj\Debug\EmployBusinessLayer.csprojAssemblyReference.cache
+C:\dotnet_cg\Day4\Layered\EmployBusinessLayer\obj\Debug\EmployBusinessLayer.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\Day4\Layered\EmployBusinessLayer\obj\Debug\EmployBusinessLayer.csproj.CopyComplete
+C:\dotnet_cg\Day4\Layered\EmployBusinessLayer\obj\Debug\EmployBusinessLayer.dll
+C:\dotnet_cg\Day4\Layered\EmployBusinessLayer\obj\Debug\EmployBusinessLayer.pdb

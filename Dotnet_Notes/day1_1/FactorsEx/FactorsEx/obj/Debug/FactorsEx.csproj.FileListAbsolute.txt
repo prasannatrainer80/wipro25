@@ -1,0 +1,6 @@
+C:\dotnet_cg\day1_1\FactorsEx\FactorsEx\bin\Debug\FactorsEx.exe.config
+C:\dotnet_cg\day1_1\FactorsEx\FactorsEx\bin\Debug\FactorsEx.exe
+C:\dotnet_cg\day1_1\FactorsEx\FactorsEx\bin\Debug\FactorsEx.pdb
+C:\dotnet_cg\day1_1\FactorsEx\FactorsEx\obj\Debug\FactorsEx.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day1_1\FactorsEx\FactorsEx\obj\Debug\FactorsEx.exe
+C:\dotnet_cg\day1_1\FactorsEx\FactorsEx\obj\Debug\FactorsEx.pdb

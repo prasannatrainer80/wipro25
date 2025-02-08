@@ -1,0 +1,6 @@
+C:\dotnet_cg\day2\StaticDemo\StaticDemo\bin\Debug\StaticDemo.exe.config
+C:\dotnet_cg\day2\StaticDemo\StaticDemo\bin\Debug\StaticDemo.exe
+C:\dotnet_cg\day2\StaticDemo\StaticDemo\bin\Debug\StaticDemo.pdb
+C:\dotnet_cg\day2\StaticDemo\StaticDemo\obj\Debug\StaticDemo.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day2\StaticDemo\StaticDemo\obj\Debug\StaticDemo.exe
+C:\dotnet_cg\day2\StaticDemo\StaticDemo\obj\Debug\StaticDemo.pdb

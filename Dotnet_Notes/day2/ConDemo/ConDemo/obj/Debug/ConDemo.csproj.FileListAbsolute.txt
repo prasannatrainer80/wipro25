@@ -1,0 +1,6 @@
+C:\dotnet_cg\day2\ConDemo\ConDemo\bin\Debug\ConDemo.exe.config
+C:\dotnet_cg\day2\ConDemo\ConDemo\bin\Debug\ConDemo.exe
+C:\dotnet_cg\day2\ConDemo\ConDemo\bin\Debug\ConDemo.pdb
+C:\dotnet_cg\day2\ConDemo\ConDemo\obj\Debug\ConDemo.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day2\ConDemo\ConDemo\obj\Debug\ConDemo.exe
+C:\dotnet_cg\day2\ConDemo\ConDemo\obj\Debug\ConDemo.pdb

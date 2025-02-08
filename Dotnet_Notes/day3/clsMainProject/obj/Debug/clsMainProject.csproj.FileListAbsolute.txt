@@ -1,0 +1,6 @@
+C:\dotnet_cg\day3\clsMainProject\obj\Debug\clsMainProject.csprojAssemblyReference.cache
+C:\dotnet_cg\day3\clsMainProject\obj\Debug\clsMainProject.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day3\clsMainProject\bin\Debug\clsMainProject.dll
+C:\dotnet_cg\day3\clsMainProject\bin\Debug\clsMainProject.pdb
+C:\dotnet_cg\day3\clsMainProject\obj\Debug\clsMainProject.dll
+C:\dotnet_cg\day3\clsMainProject\obj\Debug\clsMainProject.pdb

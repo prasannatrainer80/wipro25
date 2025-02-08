@@ -1,0 +1,6 @@
+C:\dotnet_cg\day2_2\AbsTest\AbsTest\bin\Debug\AbsTest.exe.config
+C:\dotnet_cg\day2_2\AbsTest\AbsTest\bin\Debug\AbsTest.exe
+C:\dotnet_cg\day2_2\AbsTest\AbsTest\bin\Debug\AbsTest.pdb
+C:\dotnet_cg\day2_2\AbsTest\AbsTest\obj\Debug\AbsTest.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day2_2\AbsTest\AbsTest\obj\Debug\AbsTest.exe
+C:\dotnet_cg\day2_2\AbsTest\AbsTest\obj\Debug\AbsTest.pdb

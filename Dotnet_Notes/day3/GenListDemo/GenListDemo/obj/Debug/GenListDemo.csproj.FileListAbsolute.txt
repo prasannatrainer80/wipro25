@@ -1,0 +1,6 @@
+C:\dotnet_cg\day3\GenListDemo\GenListDemo\bin\Debug\GenListDemo.exe.config
+C:\dotnet_cg\day3\GenListDemo\GenListDemo\bin\Debug\GenListDemo.exe
+C:\dotnet_cg\day3\GenListDemo\GenListDemo\bin\Debug\GenListDemo.pdb
+C:\dotnet_cg\day3\GenListDemo\GenListDemo\obj\Debug\GenListDemo.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day3\GenListDemo\GenListDemo\obj\Debug\GenListDemo.exe
+C:\dotnet_cg\day3\GenListDemo\GenListDemo\obj\Debug\GenListDemo.pdb

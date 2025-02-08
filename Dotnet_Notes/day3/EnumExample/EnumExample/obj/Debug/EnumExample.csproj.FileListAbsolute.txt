@@ -1,0 +1,7 @@
+C:\dotnet_cg\day3\EnumExample\EnumExample\bin\Debug\EnumExample.exe.config
+C:\dotnet_cg\day3\EnumExample\EnumExample\bin\Debug\EnumExample.exe
+C:\dotnet_cg\day3\EnumExample\EnumExample\bin\Debug\EnumExample.pdb
+C:\dotnet_cg\day3\EnumExample\EnumExample\obj\Debug\EnumExample.csprojAssemblyReference.cache
+C:\dotnet_cg\day3\EnumExample\EnumExample\obj\Debug\EnumExample.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day3\EnumExample\EnumExample\obj\Debug\EnumExample.exe
+C:\dotnet_cg\day3\EnumExample\EnumExample\obj\Debug\EnumExample.pdb

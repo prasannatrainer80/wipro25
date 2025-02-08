@@ -1,0 +1,6 @@
+C:\dotnet_cg\day1_1\FactorialExample\FactorialExample\bin\Debug\FactorialExample.exe.config
+C:\dotnet_cg\day1_1\FactorialExample\FactorialExample\bin\Debug\FactorialExample.exe
+C:\dotnet_cg\day1_1\FactorialExample\FactorialExample\bin\Debug\FactorialExample.pdb
+C:\dotnet_cg\day1_1\FactorialExample\FactorialExample\obj\Debug\FactorialExample.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day1_1\FactorialExample\FactorialExample\obj\Debug\FactorialExample.exe
+C:\dotnet_cg\day1_1\FactorialExample\FactorialExample\obj\Debug\FactorialExample.pdb

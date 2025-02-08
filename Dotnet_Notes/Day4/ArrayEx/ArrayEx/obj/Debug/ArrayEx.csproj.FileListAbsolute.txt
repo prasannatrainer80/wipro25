@@ -1,0 +1,6 @@
+C:\dotnet_cg\Day4\ArrayEx\ArrayEx\bin\Debug\ArrayEx.exe.config
+C:\dotnet_cg\Day4\ArrayEx\ArrayEx\bin\Debug\ArrayEx.exe
+C:\dotnet_cg\Day4\ArrayEx\ArrayEx\bin\Debug\ArrayEx.pdb
+C:\dotnet_cg\Day4\ArrayEx\ArrayEx\obj\Debug\ArrayEx.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\Day4\ArrayEx\ArrayEx\obj\Debug\ArrayEx.exe
+C:\dotnet_cg\Day4\ArrayEx\ArrayEx\obj\Debug\ArrayEx.pdb

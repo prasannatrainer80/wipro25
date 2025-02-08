@@ -1,0 +1,6 @@
+C:\dotnet_cg\day1\PosNegEx\PosNegEx\bin\Debug\PosNegEx.exe.config
+C:\dotnet_cg\day1\PosNegEx\PosNegEx\bin\Debug\PosNegEx.exe
+C:\dotnet_cg\day1\PosNegEx\PosNegEx\bin\Debug\PosNegEx.pdb
+C:\dotnet_cg\day1\PosNegEx\PosNegEx\obj\Debug\PosNegEx.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day1\PosNegEx\PosNegEx\obj\Debug\PosNegEx.exe
+C:\dotnet_cg\day1\PosNegEx\PosNegEx\obj\Debug\PosNegEx.pdb

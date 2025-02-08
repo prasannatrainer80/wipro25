@@ -1,0 +1,6 @@
+C:\dotnet_cg\Day4_1\SerilizeEmployList\SerilizeEmployList\bin\Debug\SerilizeEmployList.exe.config
+C:\dotnet_cg\Day4_1\SerilizeEmployList\SerilizeEmployList\bin\Debug\SerilizeEmployList.exe
+C:\dotnet_cg\Day4_1\SerilizeEmployList\SerilizeEmployList\bin\Debug\SerilizeEmployList.pdb
+C:\dotnet_cg\Day4_1\SerilizeEmployList\SerilizeEmployList\obj\Debug\SerilizeEmployList.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\Day4_1\SerilizeEmployList\SerilizeEmployList\obj\Debug\SerilizeEmployList.exe
+C:\dotnet_cg\Day4_1\SerilizeEmployList\SerilizeEmployList\obj\Debug\SerilizeEmployList.pdb

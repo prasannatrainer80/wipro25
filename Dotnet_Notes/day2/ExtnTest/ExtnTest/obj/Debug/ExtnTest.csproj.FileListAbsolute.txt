@@ -1,0 +1,6 @@
+C:\dotnet_cg\day2\ExtnTest\ExtnTest\bin\Debug\ExtnTest.exe.config
+C:\dotnet_cg\day2\ExtnTest\ExtnTest\bin\Debug\ExtnTest.exe
+C:\dotnet_cg\day2\ExtnTest\ExtnTest\bin\Debug\ExtnTest.pdb
+C:\dotnet_cg\day2\ExtnTest\ExtnTest\obj\Debug\ExtnTest.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day2\ExtnTest\ExtnTest\obj\Debug\ExtnTest.exe
+C:\dotnet_cg\day2\ExtnTest\ExtnTest\obj\Debug\ExtnTest.pdb

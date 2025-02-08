@@ -1,0 +1,6 @@
+C:\dotnet_cg\day2\ExtensionExample\ExtensionExample\bin\Debug\ExtensionExample.exe.config
+C:\dotnet_cg\day2\ExtensionExample\ExtensionExample\bin\Debug\ExtensionExample.exe
+C:\dotnet_cg\day2\ExtensionExample\ExtensionExample\bin\Debug\ExtensionExample.pdb
+C:\dotnet_cg\day2\ExtensionExample\ExtensionExample\obj\Debug\ExtensionExample.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day2\ExtensionExample\ExtensionExample\obj\Debug\ExtensionExample.exe
+C:\dotnet_cg\day2\ExtensionExample\ExtensionExample\obj\Debug\ExtensionExample.pdb

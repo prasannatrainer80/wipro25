@@ -1,0 +1,6 @@
+C:\dotnet_cg\Day4\FileExample2\FileExample2\bin\Debug\FileExample2.exe.config
+C:\dotnet_cg\Day4\FileExample2\FileExample2\bin\Debug\FileExample2.exe
+C:\dotnet_cg\Day4\FileExample2\FileExample2\bin\Debug\FileExample2.pdb
+C:\dotnet_cg\Day4\FileExample2\FileExample2\obj\Debug\FileExample2.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\Day4\FileExample2\FileExample2\obj\Debug\FileExample2.exe
+C:\dotnet_cg\Day4\FileExample2\FileExample2\obj\Debug\FileExample2.pdb

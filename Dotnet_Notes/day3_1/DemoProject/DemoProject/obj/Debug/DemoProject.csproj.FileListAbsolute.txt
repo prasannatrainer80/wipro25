@@ -1,0 +1,7 @@
+C:\dotnet_cg\day3_1\DemoProject\DemoProject\bin\Debug\DemoProject.exe.config
+C:\dotnet_cg\day3_1\DemoProject\DemoProject\bin\Debug\DemoProject.exe
+C:\dotnet_cg\day3_1\DemoProject\DemoProject\bin\Debug\DemoProject.pdb
+C:\dotnet_cg\day3_1\DemoProject\DemoProject\obj\Debug\DemoProject.csprojAssemblyReference.cache
+C:\dotnet_cg\day3_1\DemoProject\DemoProject\obj\Debug\DemoProject.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day3_1\DemoProject\DemoProject\obj\Debug\DemoProject.exe
+C:\dotnet_cg\day3_1\DemoProject\DemoProject\obj\Debug\DemoProject.pdb

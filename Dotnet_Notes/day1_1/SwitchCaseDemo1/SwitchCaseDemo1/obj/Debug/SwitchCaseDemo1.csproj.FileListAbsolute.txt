@@ -1,0 +1,7 @@
+C:\dotnet_cg\day1_1\SwitchCaseDemo1\SwitchCaseDemo1\bin\Debug\SwitchCaseDemo1.exe.config
+C:\dotnet_cg\day1_1\SwitchCaseDemo1\SwitchCaseDemo1\bin\Debug\SwitchCaseDemo1.exe
+C:\dotnet_cg\day1_1\SwitchCaseDemo1\SwitchCaseDemo1\bin\Debug\SwitchCaseDemo1.pdb
+C:\dotnet_cg\day1_1\SwitchCaseDemo1\SwitchCaseDemo1\obj\Debug\SwitchCaseDemo1.csprojAssemblyReference.cache
+C:\dotnet_cg\day1_1\SwitchCaseDemo1\SwitchCaseDemo1\obj\Debug\SwitchCaseDemo1.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day1_1\SwitchCaseDemo1\SwitchCaseDemo1\obj\Debug\SwitchCaseDemo1.exe
+C:\dotnet_cg\day1_1\SwitchCaseDemo1\SwitchCaseDemo1\obj\Debug\SwitchCaseDemo1.pdb

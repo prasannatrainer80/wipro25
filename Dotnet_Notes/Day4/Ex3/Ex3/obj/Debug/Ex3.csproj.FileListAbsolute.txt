@@ -1,0 +1,6 @@
+C:\dotnet_cg\Day4\Ex3\Ex3\bin\Debug\Ex3.exe.config
+C:\dotnet_cg\Day4\Ex3\Ex3\bin\Debug\Ex3.exe
+C:\dotnet_cg\Day4\Ex3\Ex3\bin\Debug\Ex3.pdb
+C:\dotnet_cg\Day4\Ex3\Ex3\obj\Debug\Ex3.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\Day4\Ex3\Ex3\obj\Debug\Ex3.exe
+C:\dotnet_cg\Day4\Ex3\Ex3\obj\Debug\Ex3.pdb

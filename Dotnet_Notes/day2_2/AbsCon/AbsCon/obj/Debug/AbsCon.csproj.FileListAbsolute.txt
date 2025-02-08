@@ -1,0 +1,6 @@
+C:\dotnet_cg\day2_2\AbsCon\AbsCon\bin\Debug\AbsCon.exe.config
+C:\dotnet_cg\day2_2\AbsCon\AbsCon\bin\Debug\AbsCon.exe
+C:\dotnet_cg\day2_2\AbsCon\AbsCon\bin\Debug\AbsCon.pdb
+C:\dotnet_cg\day2_2\AbsCon\AbsCon\obj\Debug\AbsCon.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day2_2\AbsCon\AbsCon\obj\Debug\AbsCon.exe
+C:\dotnet_cg\day2_2\AbsCon\AbsCon\obj\Debug\AbsCon.pdb

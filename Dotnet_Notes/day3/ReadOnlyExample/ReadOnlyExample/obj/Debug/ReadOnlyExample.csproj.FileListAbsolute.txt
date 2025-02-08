@@ -1,0 +1,7 @@
+C:\dotnet_cg\day3\ReadOnlyExample\ReadOnlyExample\bin\Debug\ReadOnlyExample.exe.config
+C:\dotnet_cg\day3\ReadOnlyExample\ReadOnlyExample\bin\Debug\ReadOnlyExample.exe
+C:\dotnet_cg\day3\ReadOnlyExample\ReadOnlyExample\bin\Debug\ReadOnlyExample.pdb
+C:\dotnet_cg\day3\ReadOnlyExample\ReadOnlyExample\obj\Debug\ReadOnlyExample.csprojAssemblyReference.cache
+C:\dotnet_cg\day3\ReadOnlyExample\ReadOnlyExample\obj\Debug\ReadOnlyExample.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day3\ReadOnlyExample\ReadOnlyExample\obj\Debug\ReadOnlyExample.exe
+C:\dotnet_cg\day3\ReadOnlyExample\ReadOnlyExample\obj\Debug\ReadOnlyExample.pdb

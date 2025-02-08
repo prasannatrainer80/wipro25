@@ -1,0 +1,6 @@
+C:\dotnet_cg\day1_1\ArrayDemo2\ArrayDemo2\obj\Debug\ArrayDemo2.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day1_1\ArrayDemo2\ArrayDemo2\bin\Debug\ArrayDemo2.exe.config
+C:\dotnet_cg\day1_1\ArrayDemo2\ArrayDemo2\bin\Debug\ArrayDemo2.exe
+C:\dotnet_cg\day1_1\ArrayDemo2\ArrayDemo2\bin\Debug\ArrayDemo2.pdb
+C:\dotnet_cg\day1_1\ArrayDemo2\ArrayDemo2\obj\Debug\ArrayDemo2.exe
+C:\dotnet_cg\day1_1\ArrayDemo2\ArrayDemo2\obj\Debug\ArrayDemo2.pdb

@@ -1,0 +1,6 @@
+C:\dotnet_cg\day1_1\FactRef\FactRef\bin\Debug\FactRef.exe.config
+C:\dotnet_cg\day1_1\FactRef\FactRef\bin\Debug\FactRef.exe
+C:\dotnet_cg\day1_1\FactRef\FactRef\bin\Debug\FactRef.pdb
+C:\dotnet_cg\day1_1\FactRef\FactRef\obj\Debug\FactRef.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day1_1\FactRef\FactRef\obj\Debug\FactRef.exe
+C:\dotnet_cg\day1_1\FactRef\FactRef\obj\Debug\FactRef.pdb

@@ -1,0 +1,6 @@
+C:\dotnet_cg\day3\AutoImplemented\AutoImplemented\bin\Debug\AutoImplemented.exe.config
+C:\dotnet_cg\day3\AutoImplemented\AutoImplemented\bin\Debug\AutoImplemented.exe
+C:\dotnet_cg\day3\AutoImplemented\AutoImplemented\bin\Debug\AutoImplemented.pdb
+C:\dotnet_cg\day3\AutoImplemented\AutoImplemented\obj\Debug\AutoImplemented.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\day3\AutoImplemented\AutoImplemented\obj\Debug\AutoImplemented.exe
+C:\dotnet_cg\day3\AutoImplemented\AutoImplemented\obj\Debug\AutoImplemented.pdb

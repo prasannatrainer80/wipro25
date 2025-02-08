@@ -1,0 +1,9 @@
+C:\dotnet_cg\Day4\Layered\EmployDataLayer\bin\Debug\EmployDataLayer.dll
+C:\dotnet_cg\Day4\Layered\EmployDataLayer\bin\Debug\EmployDataLayer.pdb
+C:\dotnet_cg\Day4\Layered\EmployDataLayer\bin\Debug\EmployEntity.dll
+C:\dotnet_cg\Day4\Layered\EmployDataLayer\bin\Debug\EmployEntity.pdb
+C:\dotnet_cg\Day4\Layered\EmployDataLayer\obj\Debug\EmployDataLayer.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\Day4\Layered\EmployDataLayer\obj\Debug\EmployDataLayer.csproj.CopyComplete
+C:\dotnet_cg\Day4\Layered\EmployDataLayer\obj\Debug\EmployDataLayer.dll
+C:\dotnet_cg\Day4\Layered\EmployDataLayer\obj\Debug\EmployDataLayer.pdb
+C:\dotnet_cg\Day4\Layered\EmployDataLayer\obj\Debug\EmployDataLayer.csprojAssemblyReference.cache
