@@ -1,0 +1,7 @@
+C:\Wipro_Dotnet\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Wipro_Dotnet\Project1\Project1\bin\Debug\Project1.exe
+C:\Wipro_Dotnet\Project1\Project1\bin\Debug\Project1.pdb
+C:\Wipro_Dotnet\Project1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Wipro_Dotnet\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Wipro_Dotnet\Project1\Project1\obj\Debug\Project1.exe
+C:\Wipro_Dotnet\Project1\Project1\obj\Debug\Project1.pdb
