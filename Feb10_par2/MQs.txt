@@ -1,0 +1,292 @@
+CSS Media Queries
+The @media rule, introduced in CSS2, made it possible to define different style rules for different media types.
+
+Media queries in CSS3 extended the CSS2 media types idea: Instead of looking for a type of device, they look at the capability of the device.
+
+Media queries can be used to check many things, such as:
+
+width and height of the viewport
+orientation of the viewport (landscape or portrait)
+resolution
+Using media queries are a popular technique for delivering a tailored style sheet to desktops, laptops, tablets, and mobile phones (such as iPhone and Android phones).
+
+CSS Media Types
+Value	Description
+all	Used for all media type devices
+print	Used for print preview mode
+screen	Used for computer screens, tablets, smart-phones etc.
+CSS Common Media Features
+Here are some commonly used media features:
+
+Value	Description
+orientation	Orientation of the viewport. Landscape or portrait
+max-height	Maximum height of the viewport
+min-height	Minimum height of the viewport
+height	Height of the viewport (including scrollbar)
+max-width	Maximum width of the viewport
+min-width	Minimum width of the viewport
+width	Width of the viewport (including scrollbar)
+Media Query Syntax
+A media query consists of a media type and can contain one or more media features, which resolve to either true or false.
+
+@media not|only mediatype and (media feature) and (media feature) {
+  CSS-Code;
+}
+The mediatype is optional (if omitted, it will be set to all). However, if you use not or only, you must also specify a mediatype.
+
+The result of the query is true if the specified media type matches the type of device the document is being displayed on and all media features in the media query are true. When a media query is true, the corresponding style sheet or style rules are applied, following the normal cascading rules.
+
+Meaning of the not, only, and and keywords:
+
+not: This keyword inverts the meaning of an entire media query.
+
+only: This keyword prevents older browsers that do not support media queries from applying the specified styles. It has no effect on modern browsers.
+
+and: This keyword combines a media type and one or more media features.
+____________________________________________________________________________
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: pink;
+}
+
+@media screen and (min-width: 480px) {
+  body {
+    background-color: lightgreen;
+  }
+}
+</style>
+</head>
+<body>
+
+<h1>Resize the browser window to see the effect!</h1>
+<p>The media query will only apply if the media type is screen and the viewport is 480px wide or wider.</p>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+.wrapper {overflow: auto;}
+
+#main {margin-left: 4px;}
+
+#leftsidebar {
+  float: none;
+  width: auto;
+}
+
+#menulist {
+  margin: 0;
+  padding: 0;
+}
+
+.menuitem {
+  background: #CDF0F6;
+  border: 1px solid #d4d4d4;
+  border-radius: 4px;
+  list-style-type: none;
+  margin: 4px;
+  padding: 2px;
+}
+
+@media screen and (min-width: 480px) {
+  #leftsidebar {width: 200px; float: left;}
+  #main {margin-left: 216px;}
+}
+</style>
+</head>
+<body>
+
+<div class="wrapper">
+  <div id="leftsidebar">
+    <ul id="menulist">
+      <li class="menuitem">Menu-item 1</li>
+      <li class="menuitem">Menu-item 2</li>
+      <li class="menuitem">Menu-item 3</li>
+      <li class="menuitem">Menu-item 4</li>
+      <li class="menuitem">Menu-item 5</li>
+    </ul>
+  </div>
+  
+  <div id="main">
+    <h1>Resize the browser window to see the effect!</h1>
+    <p>This example shows a menu that will float to the left of the page if the viewport is 480 pixels wide or wider. If the viewport is less than 480 pixels, the menu will be on top of the content.</p>
+  </div>
+</div>
+
+</body>
+</html>
+__________________________________________________________________________
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: tan;
+  color: black;
+}
+
+/* On screens that are 992px wide or less, the background color is blue */
+@media screen and (max-width: 992px) {
+  body {
+    background-color: blue;
+    color: white;
+  }
+}
+
+/* On screens that are 600px wide or less, the background color is olive */
+@media screen and (max-width: 600px) {
+  body {
+    background-color: olive;
+    color: white;
+  }
+}
+</style>
+</head>
+<body>
+
+<h1>Resize the browser window to see the effect!</h1>
+<p>By default, the background color of the document is "tan". If the screen size is 992px or less, the color will change to "blue". If it is 600px or less, it will change to "olive".</p>
+
+</body>
+</html>
+
+_______________________________________________________________________
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* On screens that are 600px wide or less, make the menu links stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+<h2>Responsive navigation menu</h2>
+<p>Resize the browser window to see the effect: When the screen is less than 600px, the navigation menu will be displayed vertically instead of horizontally.</p>
+
+<div class="topnav">
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+</div>
+
+</body>
+</html>
+
+________________________________________________________________________
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+  padding: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* On screens that are 992px wide or less, go from four columns to two columns */
+@media screen and (max-width: 992px) {
+  .column {
+    width: 50%;
+  }
+}
+
+/* On screens that are 600px wide or less, make the columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+<h2>Responsive Four Column Layout</h2>
+<p><strong>Resize the browser window to see the responsive effect.</strong> On screens that are 992px wide or less, the columns will resize from four columns to two columns. On screens that are 600px wide or less, the columns will stack on top of each other instead of next to eachother.</p>
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Column 1</h2>
+    <p>Some text..</p>
+  </div>
+  
+  <div class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+  
+  <div class="column" style="background-color:#ccc;">
+    <h2>Column 3</h2>
+    <p>Some text..</p>
+  </div>
+  
+  <div class="column" style="background-color:#ddd;">
+    <h2>Column 4</h2>
+    <p>Some text..</p>
+  </div>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
