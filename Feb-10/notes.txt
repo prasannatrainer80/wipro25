@@ -1,0 +1,80 @@
+Web Application : These are the applications, that which are to be called from various places rather than where they are created. If you want to make any distributed or robust applications, then we need the help of web applications. 
+
+You can create web applications in 2 ways as 
+
+(i) Scripting Languages
+
+(ii) Programming Languages 
+
+Scripting Languages are langauges, that which are interpreted during runtime they takes lot of time to execute. 
+
+Programming languages are langauges, that which are compiled first, during runtime they takes very less time to execute. 
+
+HTML (HyperText Markup Language) which allows you to create sample web pages. 
+
+<html>
+</html> : To start with html 
+
+<head>
+</head> : Used to define the global content for the given page. 
+
+<title> </title> : Used to display heading on title bar. 
+
+<body> 
+</body> : Used to contains actual content for the given page. 
+
+<dl>
+</dl> : Definition Langauge 
+
+<dt>
+</dt> : Definition Term
+
+<dd>
+</dd> : Definition Description
+
+Forms :  Allows you to access data from the keyboard. 
+You can define form, as 
+
+<form>
+</form> 
+
+There are various types of input types as
+
+<input type="text" /> 
+
+       type="password" />
+	type="number"
+	
+<input type="button" /> 
+<input type="reset" /> 
+<input type="submit" /> 
+
+Tables : Allows you to display data w.r.t. Rows and Columns. 
+You can start with tables, by using 
+<table>
+</table> 
+
+<tr>
+</tr> : Used to add new row to the table. 
+<th>
+</th> : Used to add heading to the table cell
+<td>
+</td> : Used to add data to the table cell
+
+colspan : Used to merge multiple columns into a single column
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
