@@ -1,0 +1,7 @@
+C:\Wipro_Dotnet\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+C:\Wipro_Dotnet\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+C:\Wipro_Dotnet\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+C:\Wipro_Dotnet\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.AssemblyReference.cache
+C:\Wipro_Dotnet\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Wipro_Dotnet\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+C:\Wipro_Dotnet\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
