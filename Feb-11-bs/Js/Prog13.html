@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <script>
+            function show() {
+                var str = "Welcome to Javascript Programming";
+                var arr = str.split(" ");
+                for(var v in arr) {
+                    alert(arr[v]);
+                }
+                alert(arr.length);
+
+                var newArr=[];
+
+                newArr.push("hello");
+                newArr.push("Hi");
+
+                for(var v in newArr) {
+                    alert(newArr[v]);
+                }
+
+            }
+        </script>
+    </head>
+<body onload="show()">
+
+</body>
+</html>

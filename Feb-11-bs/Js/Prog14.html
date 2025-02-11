@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <script>
+            var questions = [
+                "1. What is .NET",
+                "2. What is CLR",
+                "3. What is OOPS",
+                "4. Delegates purpose",
+                "5. Attributes and Reflection used for",
+                "6. DLL stands for"
+            ]
+            var totalQuestions = questions.length;
+            var questionNo = 0;
+            function load() {
+                document.getElementById("question").innerHTML = questions[questionNo];
+            }
+
+            function next() {
+                questionNo++;
+                if (questionNo == totalQuestions) {
+                    questionNo = totalQuestions -1;
+                }
+                load();
+            }
+            function prev() {
+                questionNo--;
+                if (questionNo < 0) {
+                    questionNo = 0;
+                }
+                load();
+            }
+        </script>
+    </head>
+<body onload="load()">
+    <p id="question"></p> <br/><br/>
+    <input type="button" value="Next" onclick="next()" /> 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <input type="button" value="Previous" onclick="prev()" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</body>
+</html>

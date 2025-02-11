@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <script>
+            var myArray = new Array(
+                {empno:1,name:'Rajitha',dept:'Java',desig:'Programmer',basic:88324},
+                {empno:2,name:'Nagaraju',dept:'Dotnet',desig:'Manager',basic:90042},
+                {empno:3,name:'Surya',dept:'Dotnet',desig:'TeamLead',basic:94422},
+                {empno:4,name:'Ashwini',dept:'Sql',desig:'Manager',basic:66622},
+                {empno:5,name:'Vijay',dept:'Sql',desig:'Expert',basic:66622},              
+            );
+        </script>
+    </head>
+<body>
+   <table border="3" align="center">
+        <tr>
+            <th>Employ No</th>
+            <th>Employ Name</th>
+            <th>Department</th>
+            <th>Designation</th>
+            <th>Basic</th>
+        </tr>
+        <script>
+            for(var v in myArray) {
+                document.writeln("<tr>");
+                document.writeln("<td>" +myArray[v].empno + "</td>");
+                document.writeln("<td>" +myArray[v].name + "</td>");
+                document.writeln("<td>" +myArray[v].dept + "</td>");
+                document.writeln("<td>" +myArray[v].desig + "</td>");
+                document.writeln("<td>" +myArray[v].basic + "</td>");
+                document.writeln("</tr>")
+            }
+        </script>
+   </table>
+</body>
+</html>

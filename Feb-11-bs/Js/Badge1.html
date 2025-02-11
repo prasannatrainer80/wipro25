@@ -1,0 +1,31 @@
+
+<html>
+    <head>
+        <script>
+            var newsPending = [
+                "1. Cricket News",
+                "2. Movie Updates",
+                "3. JSON Data",
+                "4. BootStrap Class",
+                "5. Mock Calls",
+                "6. Java 4 Practical Sessions"
+            ]
+            function show() {
+                var len = newsPending.length;
+                document.getElementById("s1").innerHTML = len;
+            }
+        </script>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<body onload="show()">
+    <div class="container">
+        <h3>Badges Example</h3>
+        <a href="Prog1.html">News<span id="s1" class="badge"></span> </a> <br/>
+        <a href="Prog2.html">Comments<span class="badge">10</span> </a><br/>
+        <a href="Prog3.html">Updates<span class="badge">8</span> </a>
+    </div>
+</body>
+</html>

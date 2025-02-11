@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <script>
+            function show() {
+		var result = "";
+		result+="Absolute Value " +Math.abs(-12) 
+			+"<br/>";
+        result+="Power Value   " +Math.pow(2,3) + "<br/>";
+        result+="Sqrt Value   " +Math.sqrt(49) + "<br/>";
+        result+="Ceiling  " +Math.ceil(12.000001) + "<br/>"; 
+        result+="Floor value is " +Math.floor(12.999999) + "<br/>";
+		document.getElementById("result").innerHTML=result;
+	    }
+        </script>
+    </head>
+<body onload="show()">
+<span id="result">
+
+</span>
+</body>
+</html>

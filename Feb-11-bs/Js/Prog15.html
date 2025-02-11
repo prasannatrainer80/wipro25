@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <script>
+            function store() {
+                var sname = frmData.sname.value;
+                localStorage.setItem("sname",sname);
+                alert("Name Stored...");
+            }
+        </script>
+    </head>
+<body>
+    <form name="frmData">
+        Student Name : 
+        <input type="text" name="sname" /> 
+        <br/><br/>
+        <input type="button" value="Store" onclick="store()" />
+    </form>
+</body>
+</html>
