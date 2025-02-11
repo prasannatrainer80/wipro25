@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <script>
+            function show() {
+                var result = "";
+                var names = new Array("Raj","Manohar","Srikar","Shalini","Mythili");
+                for(var v in names) {
+                    result+=names[v] + "  ";
+                }
+                document.getElementById("result").innerHTML = result;
+            }
+        </script>
+    </head>
+<body onload="show()">
+    <span id="result"></span>
+</body>
+</html>
