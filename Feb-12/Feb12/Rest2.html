@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <script>
+           function sum(...numbers) {
+             let total = 0;
+             for(var v of numbers) {
+                total += parseInt(v);
+                console.log(v);
+             }
+             return total;
+           }
+        </script>
+    </head>
+<body>
+    <script>
+        console.log(sum(5,22,34,56,21));
+    </script>
+</body>
+</html>

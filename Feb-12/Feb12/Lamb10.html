@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <script>
+             employs = [
+                {empno:1,name:'Rajitha',basic:52344},
+                {empno:2,name:'Nagaraju',basic:90032},
+                {empno:13,name:'Ravi',basic:90032},
+                {empno:14,name:'Nagaraju',basic:90032},
+                {empno:3,name:'Uday',basic:87732},
+                {empno:4,name:'Hyma',basic:87742},
+                {empno:5,name:'Rajesh',basic:78832},
+            ];
+
+            // for(var v in employs) {
+            //     console.log(v.empno);
+            // }
+            const show = () => {
+              var result= employs.filter(e => e.basic >= 80000);
+            console.log(result);
+            }
+        </script>
+    </head>
+<body onload="show()">
+
+</body>
+</html>

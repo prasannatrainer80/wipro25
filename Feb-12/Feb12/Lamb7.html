@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <script>
+             employs = [
+                {empno:1,name:'Rajitha',basic:52344},
+                {empno:2,name:'Nagaraju',basic:90032},
+                {empno:3,name:'Uday',basic:87732},
+                {empno:4,name:'Hyma',basic:87742},
+                {empno:5,name:'Pavan',basic:78832},
+            ];
+
+            // for(var v in employs) {
+            //     console.log(v.empno);
+            // }
+            const show = () => {
+                employs.forEach(e => {
+                    console.log(e.empno + "  " +e.name + "  " +e.basic);
+                });
+            }
+        </script>
+    </head>
+<body onload="show()">
+
+</body>
+</html>

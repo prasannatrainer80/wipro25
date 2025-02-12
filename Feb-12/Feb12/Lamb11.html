@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <script>
+            employs = [
+                {empno:1,firstname:'Rajitha',lastname:'Bhat', basic:52344},
+                {empno:2,firstname:'Nagaraju',lastname:'Perumalla', basic:90032},
+                {empno:13,firstname:'Ravi',lastname : 'CS',basic:90032},
+                {empno:14,firstname:'Nagaraju',lastname:'Srikar', basic:90032},
+                {empno:3,firstname:'Uday',lastname:'kiran',basic:87732},
+                {empno:4,firstname:'Hyma',lastname:'padma', basic:87742},
+                {empno:5,firstname:'Rajesh',lastname:'p', basic:78832},
+            ];
+            const show = () => {
+                var result= employs.filter(e => e.basic >= 80000);
+                fullName = result.map(e => e.firstname + " " +e.lastname);
+                console.log(fullName);
+            }
+        </script>
+    </head>
+<body>
+<script>
+    show();
+</script>
+</body>
+</html>
