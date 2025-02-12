@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <script>
+            function show() {
+                var myWindow = window.open("","MsgWindow","width=200, height=200");
+                myWindow.document.writeln("<p> This is Sample Popup Window...Thank You All...");
+                myWindow.document.writeln("<p> This is From Sonix Java5 batch...</p>");
+                setTimeout(function() {
+                    myWindow.close();
+                }, 5000);
+            }
+        </script>
+    </head>
+<body>
+    <input type="button" value="Show Window" onclick="show()" />
+</body>
+</html>

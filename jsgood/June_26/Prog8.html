@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <script>
+            const show = () => {
+                if (frmStatus.chkStatus.checked==true) {
+                    document.getElementById("result").innerHTML = "Present...";
+                } else {
+                    document.getElementById("result").innerHTML = "Absent...";
+                }
+            };
+        </script>
+    </head>
+<body>
+    <form name="frmStatus">
+        Status :
+        <input type="checkbox" name="chkStatus" id="c1" />
+        <br/><br/>
+        <span id="result"></span>
+        <script>
+            document.getElementById("c1").addEventListener("change",show);
+        </script>
+    </form>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <script>
+            function show() {
+                var sno = parseInt(frmData.no.value);
+                if (sno < 0) {
+                    document.getElementById("result").innerHTML = "Negative Number...";      
+                } else {
+                    document.getElementById("result").innerHTML = "Positive Number...";
+                }
+            }
+        </script>
+    </head>
+<body>
+    <form name="frmData">
+        <center>
+            Enter a Number : 
+            <input type="number" name="no" /> <br/><br/>
+            <input type="button" value="Show" onclick="show()" />
+        </center>
+    </form>
+    <span id="result"></span>
+</body>
+</html>

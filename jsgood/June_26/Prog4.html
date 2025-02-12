@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <script>
+            "use strict"
+            var userData = [
+                {"userName":"Uday","passCode":"Kumar"},
+                {"userName":"Vinod","passCode":"Kumar"},
+                {"userName":"Rajitha","passCode":"Nimmanagoti"},
+                {"userName":"Pavan","passCode":"Janni"},
+                {"userName":"Uday","passCode":"Kumar"},
+            ];
+            
+            const doLogin = () => {
+                var userName = frmLogin.userName.value;
+                var passCode = frmLogin.passCode.value;
+                var flag = false;
+                userData.forEach(x => {
+                    if (x.userName==userName && x.passCode == passCode) {
+                        console.log("Login Success Event Fired...");
+                        flag = true;
+                    }
+                });
+                if (flag==true) {
+                    window.open("http://www.google.com");
+                } else {
+                    console.log("Invalid Credentials Entered...");
+                    alert("Invalid Credentials...");
+                }
+            };
+        </script>
+    </head>
+<body>
+    <form name="frmLogin" action="javascript:doLogin()">
+        <table border="3" align="center">
+            <tr>
+                <th colspan="2">Login Page</th>
+            </tr>
+            <tr>
+                <th>User Name</th>
+                <td>
+                    <input type="text" name="userName" autofocus /> 
+                </td>
+            </tr>
+            <tr>
+                <th>Password</th>
+                <td>
+                    <input type="password" name="passCode" />
+                </td>
+            </tr>
+            <tr>
+                <th colspan="2">
+                    <input type="submit" value="Login" />
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="reset" value="Reset"/>
+                </th>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

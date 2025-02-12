@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <script>
+            const show = () => {
+                var student = frmData.student.value;
+                document.getElementById("result").innerHTML =
+                     "Selected Student <b>" +student + "</b><br/>";
+            };
+        </script>
+    </head>
+<body>
+    <form name="frmData">
+        <center>
+            Select Name : 
+            <select id="student" name="student">
+                <option value="Aishwarya">Aishwarya</option>
+                <option value="Tharun">Tharun</option>
+                <option value="Harshitha">Harshitha</option>
+                <option value="Neha">Neha</option>
+                <option value="Dinesh">Dinesh</option>
+                <option value="Surya">Surya</option>
+            </select> <br/><br/>
+            <span id="result"></span>
+            <script>
+                document.getElementById("student").addEventListener("change", show);                
+            </script>
+        </center>
+    </form>
+</body>
+</html>

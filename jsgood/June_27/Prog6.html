@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <script>
+            function addMiddle() {
+                var p2 = document.createElement("p");
+                p2.innerText = "This is After Span...";
+                var sp = document.getElementById("p1");
+                document.body.insertBefore(p2, sp);
+            }
+        </script>
+    </head>
+<body onload="addMiddle()">
+    <span id="s1">Hello All</span>
+    <p id="p1">Sample Paragraph</p>
+</body>
+</html>

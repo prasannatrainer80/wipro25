@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <script>
+            function show() {
+                var genValue = document.getElementsByName("gender");
+                alert(genValue);
+                for(var v=0;v<genValue.length;v++) {
+                    alert(genValue[v].innerText);
+                    document.writeln(genValue[v].innerText + "<br/>");
+                }
+            }
+        </script>
+    </head>
+<body>
+    Gender : 
+    <input type="radio" name="gender" value="Male">  Male</input> 
+    <input type="radio" name="gender" value="Female" > Female  </input>
+    <input type="button" value="Show" onclick="show()" />
+</body>
+</html>

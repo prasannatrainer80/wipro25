@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <script>
+            function show() {
+                var student = frmData.student.value;
+                document.getElementById("result").innerHTML = "Selected Student is "
+                    +student;
+            }
+        </script>
+    </head>
+<body>
+    <form name="frmData">
+        <center>
+            Select Name : 
+            <select name="student" onchange="show()">
+                <option value="Aishwarya">Aishwarya</option>
+                <option value="Vinod Kumar">Vinod</option>
+                <option value="Hemanth">Hemanth</option>
+                <option value="Ashwini">Ashwini</option>
+                <option value="Harika">Harika</option>
+                <option value="Nagaraju">Nagaraju</option>
+            </select>
+        </center>
+    </form> <br/><br/>
+    <span id="result"></span>
+</body>
+</html>

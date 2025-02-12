@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <style>
+            * {
+                box-sizing: border-box;
+            }
+            .column {
+                float: left;
+                width: 25%;
+                padding: 20px;
+            }
+            .row::after {
+                content: "";
+                display: table;
+                clear: both;
+            }
+            @media screen and (max-width: 992px) {
+                .column {
+                    width: 50%;
+                }
+            }
+            @media screen and (max-width:600px) {
+                .column {
+                    width: 100%;
+                }
+            }
+        </style>
+    </head>
+<body>
+    <h1>Welcome to Media Queries...This is from Java5 batch sonix...</h1>
+    <p>Thanks for everyone for joining the session...Please change the size of the window for taking effect</p>
+    <p>Thank You All from Trainer Prasanna Pappu...By default we have green color if the screen size changes to 992px then it changes to blue if it is 600px or less it will change to olive</p>
+    <div class="row">
+        <div class="column" style="background-color: #aaa;">
+            <h2>This is First Column</h2>
+            <p>Welcome to Media Queries Part 1</p>
+        </div>
+        <div class="column" style="background-color: #bbb;">
+            <h2>This is Second Column</h2>
+            <p>Welcome to Media Queries Part 2</p>
+        </div>
+        <div class="column" style="background-color: #ccc;">
+            <h2>This is Third Column</h2>
+            <p>Welcome to Media Queries Part 3</p>
+        </div>
+        <div class="column" style="background-color: #ddd;">
+            <h2>This is Fourth Column</h2>
+            <p>Welcome to Media Queries Part 4</p>
+        </div>
+    </div>
+</body>
+</html>

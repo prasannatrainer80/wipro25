@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <script>
+            function sum() {
+
+            }
+            function sub() {
+                var firstNo, secondNo, result;
+                firstNo = frmCalc.firstNo.value;
+                secondNo = frmCalc.secondNo.value;
+                result = firstNo - secondNo;
+                frmCalc.result.value = result;
+            }
+        </script>
+    </head>
+<body>
+    <form name="frmCalc">
+        <table border="3" align="center">
+            <tr>
+                <th colspan="2">Calculation Form</th>
+            </tr>
+            <tr>
+                <th>First Number</th>
+                <td>
+                    <input type="number" name="firstNo" /> 
+                </td>
+            </tr>
+            <tr>
+                <th>Second Number</th>
+                <td>
+                    <input type="number" name="secondNo" />
+                </td>
+            </tr>
+            <tr>
+                <th>Result</th>
+                <td>
+                    <input type="number" name="result" />
+                </td>
+            </tr>
+            <tr>
+                <th colspan="2">
+                    <input type="button" value="Sum" />
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="button" value="Sub" onclick="sub()" />
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="button" value="Mult" />
+                </th>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

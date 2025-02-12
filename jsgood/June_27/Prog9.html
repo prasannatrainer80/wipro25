@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <script>
+            function domAdd() {
+                var students = ["Hemanth","Surya",
+                "Aishwarya","Harashitha","Lakshmi"];
+                var studentList = document.getElementById("stud");
+                for(var v=0;v<students.length;v++) {
+                    var newLi = document.createElement("li");
+                    newLi.innerHTML = students[v];
+                    studentList.appendChild(newLi);
+                }
+            }
+        </script>
+    </head>
+<body onload="domAdd()">
+    <ol type="1" id="stud">
+        <li>Tharun</li>
+        <li>Pavan</li>
+        <li>Nagaraju</li>
+        <li>Neha</li>
+        <li>Krishna</li>
+    </ol>
+</body>
+</html>

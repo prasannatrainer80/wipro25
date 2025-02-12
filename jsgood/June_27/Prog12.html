@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <script>
+            function doLogin() {
+                var user = frmLogin.userName.value;
+                var pwd = frmLogin.passCode.value;
+                if (user=="Sonix" && pwd=="Sonix") {
+                    var myWindow = window.open("Menu.html","Demo","width=300,height=300");
+                } else {
+                    var myWindow = window.open("Error.html","Error","width=300,height=300");
+                        setTimeout(function() {
+                            myWindow.close();
+                        }, 10000);
+                }
+            }
+        </script>
+    </head>
+<body>
+    <form name="frmLogin" action="javascript:doLogin()">
+        <center>
+            User Name :
+            <input type="text" name="userName" /> 
+            <br/><br/>
+            Password : 
+            <input type="password" name="passCode" />
+            <br/><br/>
+            <input type="submit" value="Login" />
+        </center>
+    </form>
+</body>
+</html>
