@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <script>
+
+            // function login(user, pwd) {
+
+            // }
+            const login = (user,pwd) => {
+                if (user=="wipro" && pwd=="wipro") {
+                    alert("Correct"); 
+                } else {
+                    alert("Invalid");
+                }
+            };
+        </script>
+    </head>
+<body>
+    <form name="frmLogin" action="javascript:login(frmLogin.userName.value, 
+    frmLogin.passWord.value)">
+        <table border="3" align="center">
+            <tr>
+                <th colspan="2">
+                    Login Page
+                </th>
+            </tr>
+            <tr>
+                <th>User Name</th>
+                <td>
+                    <input type="text" name="userName" />
+                </td>
+            </tr>
+            <tr>
+                <th>Password</th>
+                <td>
+                    <input type="password" name="passWord" />
+                </td>
+            </tr>
+            <tr>
+                <th colspan="2">
+                    <input type="submit" value="Login" /> 
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="button" value="Reset" />
+                </th>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

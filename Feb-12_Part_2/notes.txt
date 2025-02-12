@@ -1,0 +1,40 @@
+1) What is Typescript
+
+2) How to write programs in typescript
+
+3) Annotations
+
+4) types
+
+5) interfaces 
+
+Typescript build on top of javascript, it will be stored with extension .ts 
+
+typescript uses javascript syntaxes, and after compiling it generates .js file. 
+
+If you want to write code w.r.t. ES6 (Ecamscript 6) standards then we need the help of typescript. 
+
+You can declare variables with let keyword. and with : symbol
+
+let company : "Wipro";
+
+typescript will have variables as
+
+1) string 
+
+2) number
+
+3) Boolean 
+
+4) null
+
+5) undefined
+
+__________________________________________
+
+let variableName : type;
+
+let variableName : type = "Default Value"
+
+const constName : type = value
+
