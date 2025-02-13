@@ -1,0 +1,65 @@
+Express js is fast, essential and moderate web aapplication framework implemented on top of node js platform. 
+
+If you want to make any service oriented applications, then we need the help of Express Js.
+
+-> Used to make applications from single to hybrid pages
+
+-> Allows you to setup middleware to respond to http reqs.
+
+-> It defines a routing table which used to perform different actions based on http methods. 
+
+	We have 4 http action verbs are available as
+
+	(I) GET  : Allows you to retrieve data from service.
+
+	(ii) POST : Allows you to send some data to service.
+
+	(iii) PUT : Allows you to update data of service
+
+	(iv) DELETE : Allows to perform delete operation.
+
+
+How to Install Express js
+
+1) Open any folder 
+
+c:\node_ex\exp_ex
+
+To initialize the folder as node folder, you need to give command as 
+
+npm init -y
+
+npm install express body-parser
+
+To create an object in express js
+
+const express = require('express');
+const app=express();
+
+app.get("/path", (req,res) => {
+
+code
+}
+
+For Default path, you need to specify as 
+
+app.get("/"
+
+http://localhost:8181
+
+Can we pass values through URL 
+
+yes that concept known as query stirng. 
+
+If you want to pass values then after post give ? first and give any key name and value with = symbol. After that if you want to pass any other value give & symbol and key = value
+
+Example : 
+
+http://locahost:8181/?name=prasanna&city=hyderbad
+then first query string is name and value is prasanna
+second query string is city and value is Hyderabad
+
+
+
+
+         
