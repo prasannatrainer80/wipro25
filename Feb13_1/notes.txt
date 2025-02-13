@@ -1,0 +1,103 @@
+1) What is Node Js
+2) What are modules in Node Js
+3) Node Js File System
+4) Node Js User-defined Modules
+5) Node Js Events
+6) Express Js
+7) Express JS Http Methods
+8) Consume URL by using Express JS
+
+_________________________________________________
+
+In web applications, we can implement both
+
+(i) Client-Side Scripting
+
+	Enables you to access the application from the same system, No Network Traffic and Execution will be
+faster
+
+(ii) Server-Side Scripting
+
+	Enables you to access the application from
+the server...Network traffic is high a bit slower.
+
+(i) Any intranet based application w.r.t. No 
+Security, Please opt for client-side scripting
+
+(ii) Any internet based application w.r.t. min.
+security please opt for both client-side and 
+server-side scripting
+
+(iii) Any internet based application w.r.t. High
+security please opt for server-side scripting.
+
+Node JS is a cross platform runtime env, and library for running javascript applications outside the browser. 
+
+used for creating server side and networking web applications. It is a open source and free to use
+
+If you want to build any fast and scalable applications, then we need the help of node js. 
+
+To create any real-time applications, NodeJs is
+best. 
+
+It provides library for javascript moduoles to 
+implement web applications. 
+
+Node Js = JavaScript Lib + Runtime Env. 
+
+How to Write Simple Node Js Code : 
+____________________________________
+
+HTTP Status Codes : 
+
+
+404 -> Not Found
+200 -> Success 
+403 -> Forbidden
+
+How to Create a Node Js Web-Based APp
+______________________________________
+
+1) import the required modules
+
+The first step we need to do in nodeJs is to 
+import the relevant modules prefer http module
+and store the instance into http variable. 
+
+example : 
+
+var http = require("http");
+
+2) Create Server
+
+You need to establish server which listen to clients
+request similar to web server. 
+
+3) Request and response 
+
+Create a http request made by the client to the 
+browser. 
+
+http://localhost:8181/name="prasanna"?city="Hyderbad"
+
+For working with files, we need
+
+var fs = require("fs");
+
+writeFile() : used to write data into the file, if the file already exists it overwrites, if the file does not exists, it creates a file. 
+
+appendFile() : used to write data into file. If the file exists it adds new contents at end of file, if the file does not exists it creates file. 
+
+http://localhost:8181
+
+Can we pass values through URL 
+
+yes that concept known as query stirng. 
+
+If you want to pass values then after post give ? first and give any key name and value with = symbol. After that if you want to pass any other value give & symbol and key = value
+
+Example : 
+
+http://locahost:8181/?name=prasanna&city=hyderbad
+then first query string is name and value is prasanna
+second query string is city and value is Hyderabad
