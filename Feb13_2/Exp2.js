@@ -1,8 +1,10 @@
 var express = require("express");
 var bodyParser = require("body-parser");
+var cors = require("cors");
 var app = express();
 
 app.use(bodyParser.json());
+app.use(cors);
 
 let employs = [
     {"empno":1,"name":"Prasanna","basic":88234},
@@ -15,7 +17,6 @@ let employs = [
 app.get("/showemploy", (req,res) => {
     res.status(200).json(employs);
 })
-
 
 // /calculate endpoint
 app.post("/calculate", (req, res) => {
