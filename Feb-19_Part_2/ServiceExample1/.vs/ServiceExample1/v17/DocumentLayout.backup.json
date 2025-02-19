@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro_Dotnet\\ServiceExample1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F77155B-46BA-4D9F-81D8-84A7C52D3B34}|ServiceExample1\\ServiceExample1.csproj|c:\\wipro_dotnet\\serviceexample1\\serviceexample1\\controllers\\employcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F77155B-46BA-4D9F-81D8-84A7C52D3B34}|ServiceExample1\\ServiceExample1.csproj|solutionrelative:serviceexample1\\controllers\\employcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F77155B-46BA-4D9F-81D8-84A7C52D3B34}|ServiceExample1\\ServiceExample1.csproj|c:\\wipro_dotnet\\serviceexample1\\serviceexample1\\employdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F77155B-46BA-4D9F-81D8-84A7C52D3B34}|ServiceExample1\\ServiceExample1.csproj|solutionrelative:serviceexample1\\employdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F77155B-46BA-4D9F-81D8-84A7C52D3B34}|ServiceExample1\\ServiceExample1.csproj|c:\\wipro_dotnet\\serviceexample1\\serviceexample1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F77155B-46BA-4D9F-81D8-84A7C52D3B34}|ServiceExample1\\ServiceExample1.csproj|solutionrelative:serviceexample1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F77155B-46BA-4D9F-81D8-84A7C52D3B34}|ServiceExample1\\ServiceExample1.csproj|c:\\wipro_dotnet\\serviceexample1\\serviceexample1\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F77155B-46BA-4D9F-81D8-84A7C52D3B34}|ServiceExample1\\ServiceExample1.csproj|solutionrelative:serviceexample1\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F77155B-46BA-4D9F-81D8-84A7C52D3B34}|ServiceExample1\\ServiceExample1.csproj|c:\\wipro_dotnet\\serviceexample1\\serviceexample1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F77155B-46BA-4D9F-81D8-84A7C52D3B34}|ServiceExample1\\ServiceExample1.csproj|solutionrelative:serviceexample1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployController.cs",
+              "DocumentMoniker": "C:\\Wipro_Dotnet\\ServiceExample1\\ServiceExample1\\Controllers\\EmployController.cs",
+              "RelativeDocumentMoniker": "ServiceExample1\\Controllers\\EmployController.cs",
+              "ToolTip": "C:\\Wipro_Dotnet\\ServiceExample1\\ServiceExample1\\Controllers\\EmployController.cs",
+              "RelativeToolTip": "ServiceExample1\\Controllers\\EmployController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:23:55.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployDao.cs",
+              "DocumentMoniker": "C:\\Wipro_Dotnet\\ServiceExample1\\ServiceExample1\\EmployDao.cs",
+              "RelativeDocumentMoniker": "ServiceExample1\\EmployDao.cs",
+              "ToolTip": "C:\\Wipro_Dotnet\\ServiceExample1\\ServiceExample1\\EmployDao.cs",
+              "RelativeToolTip": "ServiceExample1\\EmployDao.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:20:17.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\Wipro_Dotnet\\ServiceExample1\\ServiceExample1\\Employ.cs",
+              "RelativeDocumentMoniker": "ServiceExample1\\Employ.cs",
+              "ToolTip": "C:\\Wipro_Dotnet\\ServiceExample1\\ServiceExample1\\Employ.cs",
+              "RelativeToolTip": "ServiceExample1\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:19:11.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Wipro_Dotnet\\ServiceExample1\\ServiceExample1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ServiceExample1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Wipro_Dotnet\\ServiceExample1\\ServiceExample1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ServiceExample1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:16:58.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Wipro_Dotnet\\ServiceExample1\\ServiceExample1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ServiceExample1\\WeatherForecast.cs",
+              "ToolTip": "C:\\Wipro_Dotnet\\ServiceExample1\\ServiceExample1\\WeatherForecast.cs",
+              "RelativeToolTip": "ServiceExample1\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:16:42.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
