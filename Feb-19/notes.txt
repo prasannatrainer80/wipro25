@@ -1,0 +1,99 @@
+You can create next-js app as 
+
+npx create-next-app@latest next-js-serv2
+
+to run in dev mode
+
+npm dev run
+
+to run in prod mode
+
+npm dev build
+npm dev start
+
+
+
+SSR (Server Side Rendering) 
+
+Rendering : It is an act of making an application
+or document to be interpreted as per the 
+tags specified. 
+
+ReactDom.render(<App />, document.getElementById(root))
+
+Here, the App document to be rendered in index.js file wrt id root. 
+
+SSR : It is a technique used in web development where the HTML of a web page generated on server. 
+
+If user requests for webpage, the server prepares the HTML document by executing the logic and send it to browser. 
+
+This approach is entirely different from CSR, where js runs in browser to generate HTML document. 
+
+How Server Side Rendering will Work 
+____________________________________
+
+It is a method used to present information on display.
+
+Everytime you request for website, your browser sends a request to the server hosting the website content. The duration of this request is brief, typically a few secs but it depends on factors
+
+	-> The optimization of website. 
+
+Now, once you connected to the website, it would be redirected to the default page specified, you can see the content. 
+
+But here, in browser if you submit any new request, instead of rending the entire page, we need to perform operations in background and make it to be happen asynchronously to be access, then the concept of SSR is best. 
+
+Pros : 
+______
+
+	-> Application gets optimized
+	-> Faster Page Load
+	-> Better for Maps, forums and Social media websites
+
+ To make server-side rendering, we can do by using Next.js
+
+Pre-Rendering : 
+________________
+
+	Pre-Rendering is a technique used in Next.js for generating HTML pages in advance, instead of showing black html page, 
+
+Next-Js by default pre-renders every page, 
+
+This concept mostly used in search engines 
+
+There are 2 types of Pre-Rendering known as 
+
+1) Static Site Generation
+
+2) Server Side Rendering 
+
+Static Site Genereation : Here we need to write the code in pre-defined method as getStaticProps() 
+
+Syntax : 
+
+export async function getStaticProps() {
+	const data = await fetch(url);
+	return {
+	   props : {data}
+	}
+}
+
+export default function Page1({data}) {
+	return <div>{data.id}</div>
+}
+
+Usage of getStaticProps 
+_________________________
+
+	-> Data Required to render the page is available at the build time before user request
+	-> The page must be pre-rendered and very fast
+	-> Data Can be cached
+
+Server-Side Rendering : 
+________________________
+
+	It is a feature in Next.js where server process the request and sends working copy to client. 
+
+You can implement Server-Side rendering using 
+
+getServerSidePros() method. 
+
